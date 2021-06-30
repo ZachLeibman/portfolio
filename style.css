@@ -3,8 +3,10 @@ p{
     color: black;
      background-color: yellow;
 }
-div{
+body{
+    margin: -1px;
+    margin-bottom: -1px;
     border-style: solid;
-    border-color: black;
-    border-width: 2px;
+    border-color: rgb(0, 17, 255);
+    border-width: 5px;
 }
